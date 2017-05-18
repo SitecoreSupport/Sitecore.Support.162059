@@ -67,9 +67,8 @@
     <Reference Include="System.Configuration" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form\Core\Renderings\FormRender.cs" />
     <Compile Include="Form\Web\UI\Controls\FormSection.cs" />
-    <Compile Include="Form\Web\UI\Controls\SitecoreSimpleForm.cs">
+    <Compile Include="Form\Web\UI\Controls\SitecoreSimpleFormAscx.cs">
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
